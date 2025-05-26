@@ -1,0 +1,8 @@
+{
+    "name": "Evaluation Framework",
+    "metrics": [
+        "\u0394\u0394C",
+        "entropy",
+        "resonance"
+    ]
+}

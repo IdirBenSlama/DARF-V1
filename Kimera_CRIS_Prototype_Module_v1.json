@@ -1,0 +1,8 @@
+{
+    "name": "CRIS Prototype",
+    "functions": [
+        "cluster",
+        "score",
+        "prioritize"
+    ]
+}

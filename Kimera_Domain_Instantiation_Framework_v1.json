@@ -1,0 +1,9 @@
+{
+    "name": "Domain Instantiation Framework",
+    "version": "1.0",
+    "domains": [
+        "finance",
+        "myth",
+        "ethics"
+    ]
+}
